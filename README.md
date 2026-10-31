@@ -1,4 +1,9 @@
-# Dev Terminal v0.3
+# Dev Terminal
+
+[![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg?style=flat-square&logo=c%2B%2B)](https://isocpp.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)]()
 
 一个极其轻量级、纯原生 C++ 编写的 Windows 命令行增强工具。无需依赖复杂的 ConPTY 伪终端，直接通过 Win32 API 与网络/系统底层交互，实现丝滑的输入回显与丰富的内置网络极客工具。
 
